@@ -1,6 +1,6 @@
 {
-	"ip":"THEBINODSMP.aternos.me",
+	"ip":"DHANIYASMP.aternos.me",
 	"port": "25565",
 	"name": "MainBotHoon",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
